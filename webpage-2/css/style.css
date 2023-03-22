@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    height: 90vh;
+    width: 100%;
+    color: white;
+    background: linear-gradient(to right,rgba(45, 12, 209, 0.9),rgba(214, 28, 28, 0.5)) ,url(https://images.pexels.com/photos/3802510/pexels-photo-3802510.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 1.25rem,2.24rem !important;
+}
+.massage{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.second
+{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+}
+.mycard{
+    font-size: 14px;
+    color: red;
+
+}
+.myicon{
+    font-size: 20px;
+    color: #41dfff;
+}
